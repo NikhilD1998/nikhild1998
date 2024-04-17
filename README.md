@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikhil</h1>
-<h3 align="center">Crafting Innovative Flutter and ReactJS Solutions with Passion | Based in India</h3>
+<h3 align="center">Crafting Innovative Flutter Solutions with Passion | Based in India</h3>
 
 - 💬 Ask me about **Flutter and ReactJS**
 
