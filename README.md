@@ -1,26 +1,112 @@
-<h1 align="center">Hi 👋, I'm Nikhil</h1>
-<h3 align="center">Crafting Innovative Flutter Solutions with Passion | Based in India</h3>
+<h1 align="center">Hi 👋, I'm Nikhil Dada</h1>
 
-- 💬 Ask me about **Flutter**
+<h3 align="center">
+Backend-Focused Full Stack Developer | MERN Stack | React Native | TypeScript | AWS | AI Applications
+</h3>
 
-- 📫 How to reach me **nikhildadab@hotmail.com**
-
-
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/.error410) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhil-d-8915302a3) 
-
-# 💻 Tech Stack:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=NikhilD1998&theme=dark&hide_border=true)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NikhilD1998&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<p align="center">
+Building scalable backend systems, REST APIs, enterprise applications and AI-powered products.
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=nikhild1998&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 🚀 About Me
+
+- 💻 Backend-focused Full Stack Developer with professional experience building web and mobile applications.
+- 📱 Built and maintained cross-platform mobile apps using React Native.
+- ⚡ Developed **85+ REST APIs** powering ERP, Food Delivery, Ride Booking and AI platforms.
+- 🏗️ Passionate about scalable backend architecture, clean code, and system design.
+- 🌱 Currently exploring Distributed Systems, Microservices, Event-Driven Architecture and Cloud Infrastructure.
+- 🤖 Interested in AI-powered applications using OpenAI APIs and LLMs.
+- 📫 Reach me at **nikhildadab@hotmail.com**
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Frontend & Mobile
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
+
+### Backend
+
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST-API-green?style=for-the-badge)
+
+### Database
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma)
+
+### Cloud & DevOps
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx)
+![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
+
+### AI
+
+- OpenAI API
+- Ollama
+- Prompt Engineering
+- AI Workflow Integration
+- Document Processing
+- LLM Applications
+
+---
+
+# 📈 GitHub Activity
+
+### 🔥 Streak Stats
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=NikhilD1998&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📚 Currently Learning
+
+- Distributed Systems
+- Microservices
+- Event-Driven Architecture
+- AWS
+- System Design
+- Kubernetes
+- Advanced PostgreSQL
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+
+<a href="https://github.com/NikhilD1998">GitHub</a> •
+<a href="https://linkedin.com/in/nikhil-dada-bartakke">LinkedIn</a> •
+<a href="mailto:nikhildadab@hotmail.com">Email</a>
+
+</p>
+
+---
+
+<p align="center">
+
+> "First solve the problem. Then write clean, scalable code."
+
+</p>
